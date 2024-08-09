@@ -1,8 +1,8 @@
-# Winnode Project Bot
+# Nillion Project Bot
 
 ## Description
 
-This project is a bot for the Winnode project that periodically sends $NIL tokens to generated Nillion addresses.
+This project is a bot for the Nillion project that periodically sends $NIL tokens to generated Nillion addresses.
 
 ## Setup Instructions
 
